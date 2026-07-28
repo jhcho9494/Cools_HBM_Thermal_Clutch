@@ -83,6 +83,23 @@ Cools positions the HBM Thermal Clutch as an implementation of its selective dua
 
 Publication of this repository does not grant any licence, implied right, or permission to practise the disclosed technology.
 
+## Intellectual property and transaction options
+
+The technologies, structures, thermal-control sequences, and implementation concepts described in this repository are protected, as applicable, by granted patents, pending patent applications, and proprietary know-how of Cools Inc.
+
+Cools is open to structured discussions with qualified strategic partners. Depending on the application, field, territory, and transaction scope, potential structures may include:
+
+- exclusive or non-exclusive patent licensing;
+- field-of-use or territory-limited rights;
+- module, process, and architecture transfer with technical support;
+- joint development and commercialization;
+- strategic investment or transfer of the relevant technology business; and
+- where commercially appropriate, assignment or transfer of the relevant patents, patent applications, and associated rights themselves.
+
+**Negotiations are not limited to a licence. Where the transaction purpose and conditions are appropriate, the relevant patent portfolio itself may be included in the transaction.**
+
+Any transaction is subject to technical and legal due diligence and a definitive written agreement.
+
 ## Related Cools technology
 
 - [Cools CoWoS No-Warpage Solution](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution)
@@ -91,5 +108,7 @@ Publication of this repository does not grant any licence, implied right, or per
 
 **Dr. Jinhyun Cho — Founder & CEO, Cools Inc.**  
 Email: [jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)
+
+For technical review, licensing, patent-inclusive transactions, technology transfer, investment, or joint development, please contact Cools Inc.
 
 © 2026 Cools Inc. All rights reserved.
